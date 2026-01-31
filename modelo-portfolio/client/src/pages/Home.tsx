@@ -289,7 +289,7 @@ export default function Home() {
 
             <div className="grid md:grid-cols-3 gap-6 pt-8">
               <a
-                href="colaboradorwandersonamarante@gmail.com"
+                href="mailto:colaboradorwandersonamarante@gmail.com?subject=Contato via site"
                 className="flex flex-col items-center gap-3 p-6 rounded-lg border border-border hover:border-primary/40 transition-all duration-300 hover:shadow-lg group"
               >
                 <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-all duration-300">
