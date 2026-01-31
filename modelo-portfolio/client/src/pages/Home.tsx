@@ -136,7 +136,7 @@ export default function Home() {
             <h2 className="text-foreground">Sobre Mim</h2>
             <div className="w-24 h-px bg-primary mx-auto" />
             <p className="text-muted-foreground leading-relaxed">
-              Sou um modelo profissional em início de carreira, apaixonado por moda e expressão artística. Com experiência em trabalhos editoriais e comerciais, busco constantemente expandir meu portfólio e colaborar com fotógrafos, designers e marcas que valorizam criatividade e autenticidade.
+              Sou um modelo em início de carreira, apaixonado por moda e expressão artística. Busco constantemente expandir meu portfólio e colaborar com fotógrafos, designers e marcas que valorizam criatividade e autenticidade.
             </p>
             <p className="text-muted-foreground leading-relaxed">
               Meu objetivo é trazer versatilidade e profissionalismo a cada projeto, adaptando-me a diferentes estilos e conceitos visuais. Estou disponível para ensaios fotográficos, desfiles, campanhas publicitárias e projetos editoriais.
@@ -289,7 +289,7 @@ export default function Home() {
 
             <div className="grid md:grid-cols-3 gap-6 pt-8">
               <a
-                href="mailto:contato@modelo.com"
+                href="colaboradorwandersonamarante@gmail.com"
                 className="flex flex-col items-center gap-3 p-6 rounded-lg border border-border hover:border-primary/40 transition-all duration-300 hover:shadow-lg group"
               >
                 <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-all duration-300">
@@ -300,7 +300,7 @@ export default function Home() {
               </a>
 
               <a
-                href="tel:+5511999999999"
+                href="tel:+55(83)9 9345-1990"
                 className="flex flex-col items-center gap-3 p-6 rounded-lg border border-border hover:border-primary/40 transition-all duration-300 hover:shadow-lg group"
               >
                 <div className="w-12 h-12 rounded-full bg-primary/10 flex items-center justify-center group-hover:bg-primary/20 transition-all duration-300">
@@ -311,7 +311,7 @@ export default function Home() {
               </a>
 
               <a
-                href="https://instagram.com/modelo"
+                href="https://instagram.com/wanders0n_d"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex flex-col items-center gap-3 p-6 rounded-lg border border-border hover:border-primary/40 transition-all duration-300 hover:shadow-lg group"
@@ -320,7 +320,7 @@ export default function Home() {
                   <Instagram className="w-6 h-6 text-primary" />
                 </div>
                 <span className="font-display text-sm">Instagram</span>
-                <span className="text-xs text-muted-foreground">@modelo</span>
+                <span className="text-xs text-muted-foreground">@wanders0n_d</span>
               </a>
             </div>
           </div>
