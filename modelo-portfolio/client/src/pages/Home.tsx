@@ -68,7 +68,7 @@ export default function Home() {
               <span className="italic text-primary">Profissional</span>
             </h1>
             <p className="text-lg text-muted-foreground max-w-md">
-              Modelo iniciante com experiência em editoriais de moda, campanhas comerciais e trabalhos artísticos. Disponível para projetos criativos e colaborações.
+              Modelo iniciante com campanhas comerciais e trabalhos artísticos. Disponível para projetos criativos e colaborações.
             </p>
             <div className="flex gap-4 pt-4">
               <Button
@@ -296,7 +296,7 @@ export default function Home() {
                   <Mail className="w-6 h-6 text-primary" />
                 </div>
                 <span className="font-display text-sm">Email</span>
-                <span className="text-xs text-muted-foreground">contato@modelo.com</span>
+                <span className="text-xs text-muted-foreground">colaboradorwandersonamarante@gmail.com</span>
               </a>
 
               <a
@@ -307,7 +307,7 @@ export default function Home() {
                   <Phone className="w-6 h-6 text-primary" />
                 </div>
                 <span className="font-display text-sm">Telefone</span>
-                <span className="text-xs text-muted-foreground">+55 11 99999-9999</span>
+                <span className="text-xs text-muted-foreground">+55 (83) 9 93451990</span>
               </a>
 
               <a
